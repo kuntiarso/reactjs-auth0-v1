@@ -7,5 +7,5 @@ yarn install && yarn start
 ```
 
 ##### :page_with_curl: have compatibility to run demo with these backend(s):
-- one
+- [Express.js with Auth0](https://github.com/kuntiarso/node-express-auth0-v1)
 - two
